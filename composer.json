@@ -1,0 +1,17 @@
+{
+    "name": "gokifujiya/plantuml-server",
+    "description": "A web app to convert PlantUML syntax into diagrams (SVG, PNG, TXT) using PHP.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gokifujiya\\PlantumlServer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Goki Fujiya"
+        }
+    ],
+    "require": {}
+}
